@@ -1,7 +1,7 @@
 import javax.swing.*;
 
 public class HolaMundo {
-    public static void main(String[] args) {
+    public static void main(HolaMundo[] args) {
 
         double miArreglo[] = new double[6];
         int contador = 0;
